@@ -1,0 +1,13 @@
+kernel,channel5_figure,fitted_width_deg,RMSE_MUD,correlation,free_scale_slope,model_max_MUD
+MTEX-like SO(3) dVP (HWHM),C5 10deg,5.088,0.1808,0.99602,0.994,18.37
+MTEX-like SO(3) dVP (HWHM),C5 20deg,10.272,0.0754,0.99893,0.967,7.32
+Gaussian S2 (sigma),C5 10deg,4.305,0.1807,0.99606,0.993,18.43
+Gaussian S2 (sigma),C5 20deg,8.714,0.0753,0.99891,0.968,7.32
+Epanechnikov (support),C5 10deg,9.384,0.3252,0.98827,0.961,16.48
+Epanechnikov (support),C5 20deg,18.943,0.1786,0.99097,0.942,7.24
+Triangular (support),C5 10deg,10.188,0.2446,0.99337,0.973,18.21
+Triangular (support),C5 20deg,20.608,0.1308,0.9956,0.952,7.57
+Biweight (support),C5 10deg,11.129,0.2524,0.99296,0.972,17.15
+Biweight (support),C5 20deg,22.512,0.1315,0.99553,0.952,7.21
+Top-hat cone (support),C5 10deg,7.123,0.5831,0.9658,0.901,16.57
+Top-hat cone (support),C5 20deg,15.095,0.3442,0.96169,0.915,7.12
